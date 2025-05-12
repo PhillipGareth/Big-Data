@@ -1,0 +1,51 @@
+Disease,AUROC,F1-Score
+Label_Full-time employment (finding),0.9202127659574468,0.9301025163094129
+Label_Stress (finding),0.8629750617480678,0.7393939393939394
+Label_Part-time employment (finding),0.45185904550499445,0.11306532663316583
+Label_Social isolation (finding),0.49947089947089945,0.0
+Label_Not in labor force (finding),0.5,0.0
+Label_Limited social contact (finding),0.46891464699683877,0.0
+Label_Victim of intimate partner abuse (finding),0.5218644067796611,0.06
+Label_Reports of violence in the environment (finding),0.4863301787592008,0.0
+Label_Viral sinusitis (disorder),0.4994775339602926,0.0
+Label_Acute viral pharyngitis (disorder),0.7370197300103842,0.17647058823529413
+Label_Hypertension,0.5,0.0
+Label_Body mass index 30+ - obesity (finding),0.5,0.0
+Label_Prediabetes,0.43146417445482865,0.0
+Label_Anemia (disorder),0.5,0.0
+Label_Has a criminal record (finding),0.5,0.0
+Label_Acute bronchitis (disorder),0.48500517063081694,0.0
+Label_Received higher education (finding),0.4901452282157676,0.0
+Label_Severe anxiety (panic) (finding,0.5,0.0
+Label_Diabetes,0.49793388429752067,0.0
+Label_Hypertriglyceridemia (disorder),0.5,0.0
+Label_Metabolic syndrome X (disorder),0.42132505175983437,0.0
+Label_Hyperlipidemia,0.5,0.0
+Label_Diabetic renal disease (disorder),0.5,0.0
+Label_Risk activity involvement (finding),0.5,0.0
+Label_Received certificate of high school equivalency (finding),0.49377593360995853,0.0
+Label_Chronic kidney disease stage 1 (disorder),0.5,0.0
+Label_Chronic sinusitis (disorder),0.5,0.0
+Label_Miscarriage in first trimester,0.8981385729058945,0.0
+Label_Unhealthy alcohol drinking behavior (finding),0.5,0.01990049751243781
+Label_Normal pregnancy,0.5,0.0
+Label_Only received primary school education (finding),0.5,0.0
+Label_Hyperglycemia (disorder),0.5,0.0
+Label_Coronary Heart Disease,0.4984488107549121,0.0
+Label_Chronic low back pain (finding),0.4994834710743802,0.0
+Label_Atrial Fibrillation,0.5,0.0
+Label_Served in armed forces (finding),0.9989669421487603,0.0
+Label_Osteoporosis (disorder),0.5,0.5
+Label_Polyp of colon,0.5,0.0
+Label_Alzheimer's disease (disorder),0.5,0.0
+Label_Stroke,0.5,0.0
+Label_Chronic neck pain (finding),0.5,0.0
+Label_Neoplasm of prostate,0.49948293691830403,0.0
+Label_Carcinoma in situ of prostate (disorder),0.4989648033126294,0.0
+Label_Housing unsatisfactory (finding),0.4989669421487603,0.0
+Label_Neuropathy due to type 2 diabetes mellitus (disorder),,0.0
+Label_Chronic intractable migraine without aura,,0.0
+Label_Chronic pain,,0.0
+Label_Osteoarthritis of knee,,0.0
+Label_Impacted molars,,0.0
+Label_Drug overdose,,0.0
